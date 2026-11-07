@@ -30,7 +30,8 @@ Bold: `**bold text**` -> **bold text**
 italics: `*italic text*` -> *italic text*  
 Inline code: `` `code_variable` `` -> `inline code`  
 Qoute: ` > this is a quote.` -> 
-> this is a quote.
+> this is a quote.  
+
 Bullet points: use either `+` or `-` or `*`:
 `+ Bullet with +` ->: 
   + Bullet with +.
