@@ -31,3 +31,13 @@ italics: `*italic text*` -> *italic text*
 Inline code: `` `code_variable` `` -> `inline code`  
 Qoute: ` > this is a quote.` -> 
 > this is a quote.
+Bullet points: use either `+` or `-` or `*`:
+`+ Bullet with +` ->: 
+  + Bullet with +.
+`- Bullet with -` ->:
+  - Bullet with -.
+`* Bullet with *` ->:
+  * Bullet with *.
+to create a sub bullet just make two spaces or 4 spaces then follow the bullet process or click one tab:
+* First bullet line.
+  * Second bullet line.
