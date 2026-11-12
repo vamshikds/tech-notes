@@ -15,4 +15,5 @@ Quick reference on various commands used in Bash Scripting
   + `ls -t` - the flag `-t` sorts by modification time showing most recent changes first.
   + `ls -r` - the flag `-r` sorts the modification time in reverse order showing oldest first.
   + `ls -R` -- the flag `-R` is for Recursive Listing i-e-. lists all the contents of the directory plus contents of every subfolder inside it recursively.
++ `rm` - the flag `rm` will allow to remove the files or folder
 
